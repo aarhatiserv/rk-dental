@@ -1,0 +1,245 @@
+<style media="screen" type="text/css">
+     #front img { 
+          max-height: 200px;
+          max-width: 200px;
+        }
+
+    #back img { 
+          max-height: 200px;
+          max-width: 200px;
+        }
+    #left img { 
+          max-height: 200px;
+          max-width: 200px;
+        }
+    #right img { 
+          max-height: 200px;
+          max-width: 200px;
+        }
+    
+    
+    .right p{
+            margin-top: 30px; font-family: Times, serif;font-size: 20px;
+        }
+     .right h2{
+               margin-top: 30px;
+           }
+    
+    #linkcenter{
+        margin-top: -4px;
+    }
+   
+    @media(max-width:767px){
+            .hide {
+                display: none !important; 
+            }
+           .right{
+                margin-left:10px;
+                margin-right: 0px;
+               width: 390px;
+               margin-top: 5px;
+               margin-bottom: 5px;
+               height: 300px;
+           }
+            nav ul li:hover ul{
+        display: none;
+    }
+            header nav ul li {
+       font-size: 15px;
+    }
+           #front img { 
+          min-height: 100px;
+          min-width: 200px;
+        }
+            #back img { 
+          min-height: 100px;
+          min-width: 200px;
+        }
+            #left img { 
+          min-height: 100px;
+          min-width: 200px;
+        }
+            #right img { 
+          min-height: 100px;
+          min-width: 200px;
+        }
+          
+           
+           #2back { display: none;}
+        #2left { display: none;}
+        #2right { display: none;}
+           
+           #services{
+               margin-top: 100px;
+               margin-right: 40px;
+           }
+           #slider{
+               margin-top: -19px;
+              
+           }
+           .carousel-item  img{
+        max-height: 200px;
+    }
+           #services col-4 ,
+           #services col-4 ,
+           #services col-4 {
+               float: none;
+               width: 100%;
+               margin-right: 50px;
+           }
+           .col-md-6 .center{
+               margin-left: 10px;
+           }
+           #myBtn{
+               height: 30px;
+               }
+           .servi .profile{
+              height: 200px;
+               margin-top: 30px;
+           }
+           .high .profile{
+               margin-top: -190px;
+           }
+           .low .profile{
+               margin-top: -100px;
+               margin-bottom:  5px;
+           }
+           #maindiv{
+               margin-left: 5px;
+               margin-bottom: 10px;
+           }
+           #3d{
+               height: 1000px;
+           }
+           #maindiv{
+               padding-left: 70px;
+               margin-top: 35px;
+               margin-bottom: 30px;
+           }
+           .button{
+               margin-left: -600px;
+               margin-top: -80px;
+               margin-bottom: 30px;
+           }
+           .right{
+               margin-top: 10px;
+               min-height: 400px;
+           }
+           .serv{
+               margin-top: -140px;
+           }
+           
+           .res{
+               float: none;
+               width: 100%;
+               margin-right: 400px;
+           }
+            header .logo {
+        margin-left: -10px;
+    }
+           #services .row{
+               margin-right: 50px;
+           }
+           .show{
+               margin-right: -100px;
+               margin-top: 160px;
+               display: inline-block;
+           }
+           #linkcenter{
+               
+               margin-top: 0px;
+               line-height: 30px;
+               
+           }
+           #linkright{
+               float: none;
+               width: 100%;
+               margin-top: -30px;
+               margin-left: -70px;
+              
+           }
+           .low{
+               float: none;
+              margin-left: 8px;
+               margin-top: 5px;
+           }
+           .fullwidth{
+               margin-top: -80px;
+           }
+           .wrapper{
+               margin-top: 50px;
+               background-position: center;
+               height: 300px;
+           }
+           #maindiv{
+               margin-top: -20px;
+                height: 100px;
+           }
+           #boxdiv div{
+               height: 100px;
+               font: 40px impact;
+              
+           }
+           #res .col-md-4{
+               margin-left: -103px;
+           }
+           
+           
+
+           . raj owl-carousel{
+               margin-top: -50px;
+           }
+           .demo{
+               margin-top: -100px;
+           }
+           .test{
+               margin-top: 110px;
+           }
+           #part{
+               margin-top: -30px;
+           }
+           #part img{
+               margin-top: 20px;
+           }
+            .item .rounder{
+               height: 210px;
+              
+           }
+           .sir{
+               font-size: 25px;
+           }
+           .title{
+                font-size: 25px;
+           }
+           .aa span{
+               
+              display: none !important;
+               margin-top: -20px;
+           }
+           .d-block img-fluid{
+               max-height: 300px;
+           }
+           #front img{
+               max-height: 20px;
+               max-width: 100px;
+              
+           }
+            #back img{
+               max-height: 20px;
+               max-width: 100px;
+              
+           }
+           #left img{
+               max-height: 20px;
+               max-width: 100px;
+              
+           }
+           #right img{
+               max-height: 20px;
+               max-width: 100px;
+              
+           }
+         
+   
+        }
+</style>
