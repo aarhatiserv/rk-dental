@@ -1,24 +1,21 @@
 <?php include("header.php"); ?>
+<!-- links are used for load bootstrap -->
 <link rel="stylesheet" href="css1/bootstrap.css">
 <link rel="stylesheet" href="css1/animate.css">
 <link rel="stylesheet" href="css1/owl.carousel.min.css">
 <link rel="stylesheet" href="css1/bootstrap-datepicker.css">
 <link rel="stylesheet" href="css1/jquery.timepicker.css">
-
+<!-- links for icons and fonts -->
 <link rel="stylesheet" href="fonts1/ionicons/css/ionicons.min.css">
 <link rel="stylesheet" href="fonts1/fontawesome/css/font-awesome.min.css">
 <link rel="stylesheet" href="fonts1/flaticon/font/flaticon.css">
-
-
 <!-- Theme Style -->
 <link rel="stylesheet" href="css1/style.css">
 </head>
 
 <body>
-
   <!-- <section class="home-slider owl-carousel">
       <div class="slider-item" style="background-image: url('img/slider-1.jpg');">
-        
         <div class="container">
           <div class="row slider-text align-items-center">
             <div class="col-md-7 col-sm-12 element-animate">
@@ -27,9 +24,7 @@
             </div>
           </div>
         </div>
-
       </div>
-
       <div class="slider-item" style="background-image: url('img/slider-1.jpg');">
         <div class="container">
           <div class="row slider-text align-items-center">
@@ -38,10 +33,8 @@
               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi unde impedit, necessitatibus, soluta sit quam minima expedita atque corrupti reiciendis.</p>
             </div>
           </div>
-        </div>
-        
+        </div>      
       </div>
-
     </section> -->
   <section class="cover_1" style="background-image: url(img/slider-1.jpg); height:auto; ">
     <div class="container">
@@ -55,7 +48,7 @@
   </section>
   <!-- END slider -->
 
-
+  <!-- section for mission, vision, goals start here -->
   <section class="container home-feature mb-5">
     <div class="row">
       <div class="col-md-4 p-0 one-col element-animate">
@@ -81,6 +74,7 @@
       </div>
     </div>
   </section>
+  <!-- section for mission, vision, goals ends here -->
 
   <!-- our specialist start here -->
   <section class="ftco-section testimony-section img" style="background-image: url(images/image_2.jpg); height:auto;padding: initial;">
@@ -156,9 +150,6 @@
     </div>
   </section>
   <!-- Our specialist section end here -->
-
-
-
 
   <script src="js1/jquery-3.2.1.min.js"></script>
   <script src="js1/popper.min.js"></script>

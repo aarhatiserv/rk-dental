@@ -6,20 +6,16 @@
   <title>Colorlib Medi+</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-
-
+  <!-- this link is used for bootstrap -->
   <link rel="stylesheet" href="css1/bootstrap.css">
   <link rel="stylesheet" href="css1/animate.css">
   <link rel="stylesheet" href="css1/owl.carousel.min.css">
   <link rel="stylesheet" href="css1/bootstrap-datepicker.css">
   <link rel="stylesheet" href="css1/jquery.timepicker.css">
-
+  <!-- this is used for font and icons -->
   <link rel="stylesheet" href="fonts1/ionicons/css/ionicons.min.css">
   <link rel="stylesheet" href="fonts1/fontawesome/css/font-awesome.min.css">
   <link rel="stylesheet" href="fonts1/flaticon/font/flaticon.css">
-
-
   <!-- Theme Style -->
   <link rel="stylesheet" href="css1/style.css">
 </head>
@@ -31,7 +27,6 @@
         <div class="col-md-10">
           <h2 class="heading element-animate">Gallery</h2>
           <p class="sub-heading element-animate mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi unde impedit, necessitatibus, soluta sit quam minima expedita atque corrupti reiciendis.</p>
-          <p class="element-animate"><a href="#" class="btn btn-primary btn-lg">Get In Touch</a></p>
         </div>
       </div>
     </div>
@@ -92,59 +87,46 @@
           <div>
             <div class="media d-block media-custom text-left">
               <img src="img/img_thumb_4.jpg" alt="Image Placeholder" class="img-fluid">
-
             </div>
           </div>
-
         </div>
-
       </div>
-
-
-
+      <!-- 2nd Gallery Start here -->
       <div class="row element-animate">
         <div class="major-caousel js-carousel-2 owl-carousel">
           <div>
             <div class="media d-block media-custom text-left">
               <img src="img/img_thumb_1.jpg" alt="Image Placeholder" class="img-fluid">
-
             </div>
           </div>
           <div>
             <div class="media d-block media-custom text-left">
               <img src="img/img_thumb_2.jpg" alt="Image Placeholder" class="img-fluid">
-
             </div>
           </div>
           <div>
             <div class="media d-block media-custom text-left">
               <img src="img/img_thumb_3.jpg" alt="Image Placeholder" class="img-fluid">
-
             </div>
           </div>
           <div>
             <div class="media d-block media-custom text-left">
               <img src="img/img_thumb_4.jpg" alt="Image Placeholder" class="img-fluid">
-
             </div>
           </div>
-
           <div>
             <div class="media d-block media-custom text-left">
               <img src="img/img_thumb_1.jpg" alt="Image Placeholder" class="img-fluid">
-
             </div>
           </div>
           <div>
             <div class="media d-block media-custom text-left">
               <img src="img/img_thumb_2.jpg" alt="Image Placeholder" class="img-fluid">
-
             </div>
           </div>
           <div>
             <div class="media d-block media-custom text-left">
               <img src="img/img_thumb_3.jpg" alt="Image Placeholder" class="img-fluid">
-
             </div>
           </div>
           <div>

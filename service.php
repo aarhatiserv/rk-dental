@@ -6,20 +6,15 @@
   <title>R K Dental | Services</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-
-
   <link rel="stylesheet" href="css1/bootstrap.css">
   <link rel="stylesheet" href="css1/animate.css">
   <link rel="stylesheet" href="css1/owl.carousel.min.css">
   <link rel="stylesheet" href="css1/bootstrap-datepicker.css">
   <link rel="stylesheet" href="css1/jquery.timepicker.css">
-
+  <!-- this link is used for font-awesome -->
   <link rel="stylesheet" href="fonts1/ionicons/css/ionicons.min.css">
   <link rel="stylesheet" href="fonts1/fontawesome/css/font-awesome.min.css">
   <link rel="stylesheet" href="fonts1/flaticon/font/flaticon.css">
-
-
   <!-- Theme Style -->
   <link rel="stylesheet" href="css1/style.css">
 </head>
@@ -27,7 +22,6 @@
 <body>
   <!-- <section class="home-slider inner-page owl-carousel">
           <div class="slider-item" style="background-image: url('img/slider-2.jpg');">
-            
             <div class="container">
               <div class="row slider-text align-items-center">
                 <div class="col-md-7 col-sm-12 element-animate">
@@ -36,9 +30,7 @@
                 </div>
               </div>
             </div>
-    
-          </div>
-    
+          </div> 
         </section> -->
   <section class="cover_1" style="background-image: url(img/slider-2.jpg);">
     <div class="container">
@@ -51,7 +43,6 @@
     </div>
   </section>
   <!-- END slider -->
-
   <section class="section">
     <div class="container">
       <div class="row">
@@ -86,7 +77,6 @@
               <h3 class="mt-0 text-black">PERIODONTICS</h3>
               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
               <button type="button" class="btn btn-secondary btn-sm" data-toggle="modal" data-target=".bd_periodontics">Learn More</button>
-
             </div>
           </div>
         </div>
@@ -97,7 +87,6 @@
               <h3 class="mt-0 text-black">ORAL PATHOLOGY</h3>
               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
               <button type="button" class="btn btn-secondary btn-sm" data-toggle="modal" data-target=".bd_oralpath">Learn More</button>
-
             </div>
           </div>
         </div>
@@ -111,7 +100,6 @@
               <h3 class="mt-0 text-black">PAEDODONTICS</h3>
               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
               <button type="button" class="btn btn-secondary btn-sm" data-toggle="modal" data-target=".bd_paedodontics">Learn More</button>
-
             </div>
           </div>
         </div>
@@ -132,7 +120,6 @@
               <h3 class="mt-0 text-black">LASER DENTISTRY</h3>
               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
               <button type="button" class="btn btn-secondary btn-sm" data-toggle="modal" data-target=".bd_laser">Learn More</button>
-
             </div>
           </div>
         </div>
@@ -143,14 +130,12 @@
               <h3 class="mt-0 text-black">DENTAL X-RAY</h3>
               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
               <button type="button" class="btn btn-secondary btn-sm" data-toggle="modal" data-target=".bd_xray">Learn More</button>
-
             </div>
           </div>
         </div>
       </div>
       <!-- END row -->
       <div class="row">
-
         <div class="col-md-3 element-animate">
           <div class="media d-block media-feature text-center mb-5">
             <img src="https://img.icons8.com/office/80/000000/false-teeth.png" />
@@ -158,7 +143,6 @@
               <h3 class="mt-0 text-black">ORAL & MAXILLO-FACIAL SURGERY</h3>
               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
               <button type="button" class="btn btn-secondary btn-sm" data-toggle="modal" data-target=".bd_oralmax">Learn More</button>
-
             </div>
           </div>
         </div>
@@ -169,7 +153,6 @@
               <h3 class="mt-0 text-black">PROSTHODONTICS & IMPLANTOLOGY</h3>
               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
               <button type="button" class="btn btn-secondary btn-sm" data-toggle="modal" data-target=".bd_prosthodontics">Learn More</button>
-
             </div>
           </div>
         </div>
@@ -298,12 +281,6 @@
   </div>
   <!-- Content for ORAL PATHOLOGY  learn more ends here-->
 
-
-
-
-
-
-
   <!-- Content for PAEDODONTICS learn more start here-->
   <div class="modal fade bd_paedodontics" tabindex="-1" role="dialog" aria-labelledby="bd_paedodonticsLabel" aria-hidden="true">
     <div class="modal-dialog  modal-dialog-centered modal-lg">
@@ -330,7 +307,6 @@
           &rArr; Correction of any irregularities in Intra-Oral part of jaws for better fit of Dentures <br>
           &rArr; Correction of Cleft Lip and Palate <br>
           &rArr; Aesthetic correction of face by Jaw surgeries <br>
-
         </div>
       </div>
     </div>

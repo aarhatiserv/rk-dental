@@ -18,20 +18,9 @@
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 	<link rel="stylesheet" href="css/css1/style.css">
 
-
 	<link rel="stylesheet" href="css/css2/bootstrap.min.css">
 	<link rel="stylesheet" href="css/css2/swiper.min.css">
 	<link rel="stylesheet" href="css/css2/style.css">
-	<!-- link font awesome -->
-
-
-
-
-	<!-- <link rel="stylesheet" href="css/css3/fontawesome.css">
-    <link rel="stylesheet" href="css/css3/bootstrap.min.css">
-    <link rel="stylesheet" href="css/css3/style.css">
-    <link rel="stylesheet" href="css/css3/animate.min.css">
-    <link rel="stylesheet" href="css/css3/new.css"> -->
 </head>
 
 <body data-spy="scroll" data-target=".site-navbar-target" data-offset="300">
@@ -72,7 +61,6 @@
 			<button class="navbar-toggler js-fh5co-nav-toggle fh5co-nav-toggle" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
 				<span class="oi oi-menu"></span> <strong>MENU</strong>
 			</button>
-
 			<div class="collapse navbar-collapse" id="ftco-nav">
 				<ul class="navbar-nav nav ml-auto">
 					<li class="nav-item"><a href="index.php" class="nav-link"><span><strong>HOME</strong></span></a></li>
