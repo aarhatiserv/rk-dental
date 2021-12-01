@@ -15,13 +15,15 @@
 	<link rel="stylesheet" href="css/css1/aos.css">
 	<link rel="stylesheet" href="css/css1/ionicons.min.css">
 	<link rel="stylesheet" href="css/css1/flaticon.css">
-	<link rel="stylesheet" href="css/css1/font-awesome.min.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 	<link rel="stylesheet" href="css/css1/style.css">
 
 
 	<link rel="stylesheet" href="css/css2/bootstrap.min.css">
 	<link rel="stylesheet" href="css/css2/swiper.min.css">
 	<link rel="stylesheet" href="css/css2/style.css">
+	<!-- link font awesome -->
+
 
 
 
@@ -39,11 +41,15 @@
 				<div class="col-lg-12 d-block">
 					<div class="row d-flex">
 						<div class="col-md pr-4 d-flex topper align-items-center">
-							<div class="icon mr-2 d-flex justify-content-center align-items-center"><span class="fa fa-phone-square"></span></div>
+							<div class="icon mr-2 d-flex justify-content-center align-items-center">
+								<i class="fa fa-phone-square" aria-hidden="true"></i>
+							</div>
 							<span class="text">+91&nbsp;90648&nbsp;87991 &nbsp;&nbsp;For Support Call</span>
 						</div>
 						<div class="col-md pr-4 d-flex topper align-items-center">
-							<div class="icon mr-2 d-flex justify-content-center align-items-center"><span class="fa fa-mail-forward"></span></div>
+							<div class="icon mr-2 d-flex justify-content-center align-items-center">
+								<span class="fa fa-mail-forward"></span>
+							</div>
 							<span class="text">youremail@email.com</span>
 						</div>
 						<div class="col-md-5 pr-4 d-flex topper align-items-center text-lg-right justify-content-end">
@@ -58,10 +64,10 @@
 			</div>
 		</div>
 	</div>
-	<nav class="navbar navbar-expand-lg navbar-light bg-primary ftco_navbar ftco-navbar-light site-navbar-target" id="ftco-navbar">
+	<nav class="navbar navbar-expand-lg navbar-light bg-gray ftco_navbar ftco-navbar-light site-navbar-target" id="ftco-navbar">
 		<div class="container">
 			<a class="navbar-brand" href="index.php">
-				<img src="images/R K Dental Care_logo 02.png" alt="r k logo" height="60" style="float: left; width:fit-content;">
+				<img src="images/R K Dental Care_logo 02.png" alt="r k logo" height="76" style="float: left; width:fit-content;">
 			</a>
 			<button class="navbar-toggler js-fh5co-nav-toggle fh5co-nav-toggle" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
 				<span class="oi oi-menu"></span> <strong>MENU</strong>

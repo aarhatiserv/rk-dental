@@ -8785,12 +8785,13 @@ textarea.form-control {
 .ftco-bg-dark {
   background: #3c312e; }
 
-.ftco-footer {
-  font-size: 16px;
-  background: #b9d6ff;
-  padding: 7em 0;
-  z-index: 0;
-  position: relative; }
+  .ftco-footer {
+    font-size: 16px;
+    background: #b9d6ff;
+    padding: 1em 0;
+    z-index: 0;
+    position: relative;
+    }
   .ftco-footer .overlay {
     position: absolute;
     top: 0;
