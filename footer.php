@@ -6,7 +6,7 @@
       <div class="col-md">
         <div class="ftco-footer-widget text-center mb-4">
           <img src="images/R K Dental Care_logo 02.png" class="rounded" alt="R K Dental" height="130">
-          <p class="text-center">ISO 9001-2008 <br>Certified Dental Clinic</p>
+          <p class="text-center">ISO 9001-2015 <br>Certified Dental Clinic</p>
         </div>
       </div>
       <div class="col-md">
@@ -42,7 +42,7 @@
             <ul>
               <li><i class="bi bi-phone"></i><span class="text">Shiv Hari Niketan, <br> UCO Bank, Malancha Main Rd, Kharagpur, West Bengal 721301</span></li>
               <li><a href="#"><i class="bi bi-phone"></i><span class="text">+91&nbsp;90648&nbsp;87991 </span></a></li>
-              <li><a href="#"><i class="bi bi-phone"></i><span class="text">info@yourdomain.com</span></a></li>
+              <li><a href="#"><i class="bi bi-phone"></i><span class="text">dentalcarerk@gmail.com</span></a></li>
             </ul>
           </div>
         </div>

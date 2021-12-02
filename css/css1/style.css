@@ -9023,7 +9023,7 @@ textarea.form-control {
 .testimony-wrap {
   display: block;
   position: relative;
-  color: rgba(255, 255, 255, 0.7); }
+   }
   .testimony-wrap .user-img {
     width: 130px;
     height: 130px;
@@ -9054,10 +9054,10 @@ textarea.form-control {
   .testimony-wrap .name {
     font-weight: 400;
     margin-bottom: 0;
-    color: #fff; }
+   }
   .testimony-wrap .position {
     font-size: 18px;
-    color: rgba(255, 255, 255, 0.8);
+    
     font-size: 12px;
     text-transform: uppercase;
     letter-spacing: 1px;

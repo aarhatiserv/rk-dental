@@ -5,6 +5,7 @@
 	<title>RK DENTAL CARE</title>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<meta name="description" content="R K Dental Care is full dental care service providing hospital in kharagpur">
 
 	<link rel="icon" type="image/png" href="img/logo-1.png">
 	<link rel="stylesheet" href="css/css1/open-iconic-bootstrap.min.css">
@@ -39,7 +40,7 @@
 							<div class="icon mr-2 d-flex justify-content-center align-items-center">
 								<span class="fa fa-mail-forward"></span>
 							</div>
-							<span class="text">youremail@email.com</span>
+							<span class="text">dentalcarerk@gmail.com</span>
 						</div>
 						<div class="col-md-5 pr-4 d-flex topper align-items-center text-lg-right justify-content-end">
 							<p class="mb-0 register-link">

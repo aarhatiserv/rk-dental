@@ -112,70 +112,70 @@
         <div class="carousel-testimony owl-carousel ftco-owl">
           <div class="item">
             <div class="testimony-wrap text-center py-3">
-              <div class="user-img" style="background-image: url(images/person_1.jpg)">
+              <div class="user-img" style="background-image: url(images/user.png)">
                 <span class="quote d-flex align-items-center justify-content-center">
-                  <i class="icon-quote-left"></i>
+                  <i class="fa fa-quote-left" aria-hidden="true"></i>
                 </span>
               </div>
               <div class="text px-4">
-                <p class="mb-4">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                <p class="name">Jeff Freshman</p>
+                <p class="mb-4">The doctors are very caring, special thanks to Dr. Pretesh for guiding through my root canal process and reducing my anxiety. Hassle free experience in both treatment and taking appointments for regular check-ups. Would recommend everyone for good dental care experience.</p>
+                <p class="name">Rishabh Kumar </p>
                 <span class="position">Patients</span>
               </div>
             </div>
           </div>
           <div class="item">
-            <div class="testimony-wrap text-center py-4 pb-5">
-              <div class="user-img" style="background-image: url(images/person_2.jpg)">
+            <div class="testimony-wrap text-center py-4 ">
+              <div class="user-img" style="background-image: url(images/user.png)">
                 <span class="quote d-flex align-items-center justify-content-center">
-                  <i class="icon-quote-left"></i>
+                <i class="fa fa-quote-left" aria-hidden="true"></i>
                 </span>
               </div>
               <div class="text px-4">
-                <p class="mb-4">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                <p class="name">Jeff Freshman</p>
+                <p class="mb-4">Experienced dentists, Well Mannered Staffs, Reasonable Fees, Overall Loved being a patient of R.K Dental Carep. </p>
+                <p class="name">Ayush Chowdhury </p>
                 <span class="position">Patients</span>
               </div>
             </div>
           </div>
           <div class="item">
-            <div class="testimony-wrap text-center py-4 pb-5">
-              <div class="user-img" style="background-image: url(images/person_3.jpg)">
+            <div class="testimony-wrap text-center py-4 ">
+              <div class="user-img" style="background-image: url(images/user.png)">
                 <span class="quote d-flex align-items-center justify-content-center">
-                  <i class="icon-quote-left"></i>
+                <i class="fa fa-quote-left" aria-hidden="true"></i>
                 </span>
               </div>
               <div class="text px-4">
-                <p class="mb-4">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                <p class="name">Jeff Freshman</p>
+                <p class="mb-4">Nothing can be as bad as a Toothache, Gumbleeding, and Cavities.. However it wasn't so bad only because I visited R K Dental Care. I was assisted with patience with advanced technologies, and soft and skilled hands. I never thought, visiting a dentist could be so amazing.</p>
+                <p class="name">SNEHA KHERIA</p>
                 <span class="position">Patients</span>
               </div>
             </div>
           </div>
           <div class="item">
-            <div class="testimony-wrap text-center py-4 pb-5">
-              <div class="user-img" style="background-image: url(images/person_1.jpg)">
+            <div class="testimony-wrap text-center py-4">
+              <div class="user-img" style="background-image: url(images/user.png)">
                 <span class="quote d-flex align-items-center justify-content-center">
-                  <i class="icon-quote-left"></i>
+                <i class="fa fa-quote-left" aria-hidden="true"></i>
                 </span>
               </div>
               <div class="text px-4">
-                <p class="mb-4">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                <p class="name">Jeff Freshman</p>
+                <p class="mb-4">The clinic is clean and well equipped.The experience with the doctor was very good. He had explained the details of the cause of the dental problem along with the treatment procedure very nicely. The appointment ran on time, hence overall very nice experience.</p>
+                <p class="name">Ananya Roy </p>
                 <span class="position">Patients</span>
               </div>
             </div>
           </div>
           <div class="item">
-            <div class="testimony-wrap text-center py-4 pb-5">
-              <div class="user-img" style="background-image: url(images/person_3.jpg)">
+            <div class="testimony-wrap text-center py-4">
+              <div class="user-img" style="background-image: url(images/user.png)">
                 <span class="quote d-flex align-items-center justify-content-center">
-                  <i class="icon-quote-left"></i>
+                <i class="fa fa-quote-left" aria-hidden="true"></i>
                 </span>
               </div>
               <div class="text px-4">
-                <p class="mb-4">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                <p class="name">Jeff Freshman</p>
+                <p class="mb-4">One of the best Dental Clinic I have ever visited. May it be equipments, environment within the clinic, Care, is really commendable. Although, Smile is the prettiest thing you can wear at the end :)</p>
+                <p class="name">Zhea Rao</p>
                 <span class="position">Patients</span>
               </div>
             </div>

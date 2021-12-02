@@ -14,28 +14,6 @@
 </head>
 
 <body>
-  <!-- <section class="home-slider owl-carousel">
-      <div class="slider-item" style="background-image: url('img/slider-1.jpg');">
-        <div class="container">
-          <div class="row slider-text align-items-center">
-            <div class="col-md-7 col-sm-12 element-animate">
-              <h1>We Care For You</h1>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi unde impedit, necessitatibus, soluta sit quam minima expedita atque corrupti reiciendis.</p>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="slider-item" style="background-image: url('img/slider-1.jpg');">
-        <div class="container">
-          <div class="row slider-text align-items-center">
-            <div class="col-md-7 col-sm-12 element-animate">
-              <h1>We Provide Health Care Solutions</h1>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi unde impedit, necessitatibus, soluta sit quam minima expedita atque corrupti reiciendis.</p>
-            </div>
-          </div>
-        </div>      
-      </div>
-    </section> -->
   <section class="cover_1" style="background-image: url(img/slider-1.jpg); height:auto; ">
     <div class="container">
       <div class="row text-center justify-content-center">
@@ -46,7 +24,6 @@
       </div>
     </div>
   </section>
-  <!-- END slider -->
 
   <!-- section for mission, vision, goals start here -->
   <section class="container home-feature mb-5">
@@ -77,11 +54,11 @@
   <!-- section for mission, vision, goals ends here -->
 
   <!-- our specialist start here -->
-  <section class="ftco-section testimony-section img" style="background-image: url(images/image_2.jpg); height:auto;padding: initial;">
+  <section>
     <div class="overlay"></div>
     <div class="container">
       <div class="row justify-content-center">
-        <div class="col-md-7 text-center heading-section heading-section-white ftco-animate">
+        <div class="col-md-7 text-center heading-section ftco-animate">
           <h2 class="mb-4">Our Specialist</h2>
         </div>
       </div>
@@ -150,6 +127,10 @@
     </div>
   </section>
   <!-- Our specialist section end here -->
+  <div class="container my-3">
+    <h2 class="text-center bold">this is heading</h2>
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Accusamus consectetur incidunt dolorum pariatur laboriosam quo neque voluptates aut, modi debitis sapiente ipsa nemo vel illum dignissimos, autem omnis est. Nemo assumenda porro praesentium exercitationem.</p>
+  </div>
 
   <script src="js1/jquery-3.2.1.min.js"></script>
   <script src="js1/popper.min.js"></script>

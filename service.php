@@ -20,18 +20,6 @@
 </head>
 
 <body>
-  <!-- <section class="home-slider inner-page owl-carousel">
-          <div class="slider-item" style="background-image: url('img/slider-2.jpg');">
-            <div class="container">
-              <div class="row slider-text align-items-center">
-                <div class="col-md-7 col-sm-12 element-animate">
-                  <h1>Services</h1>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi unde impedit, necessitatibus, soluta sit quam minima expedita atque corrupti reiciendis.</p>
-                </div>
-              </div>
-            </div>
-          </div> 
-        </section> -->
   <section class="cover_1" style="background-image: url(img/slider-2.jpg);">
     <div class="container">
       <div class="row text-center justify-content-center">
@@ -42,7 +30,7 @@
       </div>
     </div>
   </section>
-  <!-- END slider -->
+  <!-- our services starts here  -->
   <section class="section">
     <div class="container">
       <div class="row">
@@ -159,7 +147,8 @@
         <!-- END row -->
       </div>
   </section>
-
+  <!-- our services ends here  -->
+  <!-- model description start here -->
   <!-- Content for ORTHODONTICS learn more  start here-->
   <div class="modal fade bd_orthodotics" tabindex="-1" role="dialog" aria-labelledby="bd_orthodoticsLabel" aria-hidden="true">
     <div class="modal-dialog  modal-dialog-centered modal-lg">
@@ -456,6 +445,8 @@
     </div>
   </div>
   <!-- Content for PROSTHODONTICS & IMPLANTOLOGY learn more ends here-->
+  <!-- model description start here -->
+
 
   <!-- Script -->
   <script src="js1/jquery-3.2.1.min.js"></script>
