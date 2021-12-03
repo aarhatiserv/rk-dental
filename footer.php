@@ -16,13 +16,13 @@
           </div>
         </div>
       </div>
-      <div class="col-md ml-5">
+      <div class="col-md">
         <div class="ftco-footer-widget ">
           <ul class="list-unstyled">
-            <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Home</a></li>
-            <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>About</a></li>
-            <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Services</a></li>
-            <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Gallery</a></li>
+            <li><a href="index.php"><span class="icon-long-arrow-right mr-2"></span>Home</a></li>
+            <li><a href="about.php"><span class="icon-long-arrow-right mr-2"></span>About</a></li>
+            <li><a href="service.php"><span class="icon-long-arrow-right mr-2"></span>Services</a></li>
+            <li><a href="gallery.php"><span class="icon-long-arrow-right mr-2"></span>Gallery</a></li>
             <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Blog</a></li>
           </ul>
         </div>

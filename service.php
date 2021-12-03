@@ -25,7 +25,7 @@
       <div class="row text-center justify-content-center">
         <div class="col-md-10">
           <h2 class="heading element-animate">Our Services</h2>
-          <p class="sub-heading element-animate mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi unde impedit, necessitatibus, soluta sit quam minima expedita atque corrupti reiciendis.</p>
+          <p class="sub-heading element-animate mb-5">(COMPLETE ORAL AND DENTAL SOLUTION UNDER ONE ROOF)</p>
         </div>
       </div>
     </div>
@@ -36,10 +36,10 @@
       <div class="row">
         <div class="col-md-3 element-animate">
           <div class="media d-block media-feature text-center mb-5">
-            <img src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/80/000000/external-broken-tooth-being-submerged-after-removing-root-canal-dentistry-duo-tal-revivo.png" />
+            <img src="https://img.icons8.com/external-icongeek26-linear-colour-icongeek26/80/000000/external-braces-dental-icongeek26-linear-colour-icongeek26.png" />
             <div class="media-body">
-              <h3 class="mt-0 text-black">ORTHODONTICS</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+              <h3 class="mt-0 text-black">ORTHODONTICS (BRACES & ALLIGNERS)</h3>
+              <p>Dental braces are appliances used to align or straighten the ...</p>
               <button type="button" class="btn btn-secondary btn-sm" data-toggle="modal" data-target=".bd_orthodotics">
                 Learn More
               </button>
@@ -48,10 +48,10 @@
         </div>
         <div class="col-md-3 element-animate">
           <div class="media d-block media-feature text-center mb-5">
-            <img src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/80/000000/external-dentistry-specialty-hospital-isolated-on-a-white-background-dentistry-duo-tal-revivo.png" />
+            <img src="https://img.icons8.com/external-victoruler-linear-colour-victoruler/80/000000/external-root-canal-dental-victoruler-linear-colour-victoruler.png" />
             <div class="media-body">
-              <h3 class="mt-0 text-black"> ENDODONTICS</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+              <h3 class="mt-0 text-black">ENDODONTICS (PAINLESS RCT) </h3>
+              <p>The outer portion or Crown of a tooth is a three-layered... </p>
               <button type="button" class="btn btn-secondary btn-sm" data-toggle="modal" data-target=".bd_endodontics">
                 Learn More
               </button>
@@ -62,19 +62,19 @@
           <div class="media d-block media-feature text-center mb-5">
             <img src="https://img.icons8.com/external-tal-revivo-tritone-tal-revivo/80/000000/external-teeth-root-canal-connected-to-gum-isolated-on-a-white-background-dentistry-tritone-tal-revivo.png" />
             <div class="media-body">
-              <h3 class="mt-0 text-black">PERIODONTICS</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+              <h3 class="mt-0 text-black">PERIODONTICS &nbsp;&nbsp;(GUMS)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h3>
+              <p>Gum disease is an inflammation of the gum line that ...</p>
               <button type="button" class="btn btn-secondary btn-sm" data-toggle="modal" data-target=".bd_periodontics">Learn More</button>
             </div>
           </div>
         </div>
         <div class="col-md-3 element-animate">
           <div class="media d-block media-feature text-center mb-5">
-            <img src="https://img.icons8.com/ios-filled/80/000000/dental-filling.png" class="color-primary" />
+            <img src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/80/000000/external-smile-emoji-wanicon-lineal-color-wanicon.png" />
             <div class="media-body">
-              <h3 class="mt-0 text-black">ORAL PATHOLOGY</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-              <button type="button" class="btn btn-secondary btn-sm" data-toggle="modal" data-target=".bd_oralpath">Learn More</button>
+              <h3 class="mt-0 text-black">PEDODONTICS (KIDS DENTISTRY) </h3>
+              <p>The first tooth in a child erupts as early as in 6 months ...</p>
+              <button type="button" class="btn btn-secondary btn-sm" data-toggle="modal" data-target=".bd_paedodontics">Learn More</button>
             </div>
           </div>
         </div>
@@ -83,21 +83,21 @@
       <div class="row">
         <div class="col-md-3 element-animate">
           <div class="media d-block media-feature text-center mb-5">
-            <img src="https://img.icons8.com/external-icongeek26-outline-gradient-icongeek26/80/000000/external-dentist-dental-icongeek26-outline-gradient-icongeek26-2.png" />
+            <img src="https://img.icons8.com/external-victoruler-linear-colour-victoruler/80/000000/external-dentures-dental-victoruler-linear-colour-victoruler.png" />
             <div class="media-body">
-              <h3 class="mt-0 text-black">PAEDODONTICS</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-              <button type="button" class="btn btn-secondary btn-sm" data-toggle="modal" data-target=".bd_paedodontics">Learn More</button>
+              <h3 class="mt-0 text-black"> DENTURES</h3>
+              <p>Dentures are custom-made removable appliances which ...</p>
+              <button type="button" class="btn btn-secondary btn-sm" data-toggle="modal" data-target=".bd_oralpath">Learn More</button>
             </div>
           </div>
         </div>
         <div class="col-md-3 element-animate">
           <div class="media d-block media-feature text-center mb-5">
-            <img src="https://img.icons8.com/color/80/000000/dentist-skin-type-1.png" />
+            <img src="https://img.icons8.com/external-victoruler-linear-colour-victoruler/80/000000/external-tooth-filling-dental-victoruler-linear-colour-victoruler.png" />
             <div class="media-body">
-              <h3 class="mt-0 text-black">COSMETIC DENTISTRY</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-              <button type="button" class="btn btn-secondary btn-sm" data-toggle="modal" data-target=".bd_cosmetic">Learn More</button>
+              <h3 class="mt-0 text-black"> DENTAL FILLING</h3>
+              <p>Dental Filling is a treatment modality administered ...</p>
+              <button type="button" class="btn btn-secondary btn-sm" data-toggle="modal" data-target=".bd_filling">Learn More</button>
             </div>
           </div>
         </div>
@@ -106,17 +106,17 @@
             <img src="https://img.icons8.com/office/80/000000/phaser.png" />
             <div class="media-body">
               <h3 class="mt-0 text-black">LASER DENTISTRY</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+              <p>Laser technology has been a path-breaking innovation in ...</p>
               <button type="button" class="btn btn-secondary btn-sm" data-toggle="modal" data-target=".bd_laser">Learn More</button>
             </div>
           </div>
         </div>
         <div class="col-md-3 element-animate">
           <div class="media d-block media-feature text-center mb-5">
-            <img src="https://img.icons8.com/external-ddara-lineal-color-ddara/80/000000/external-dental-medical-ddara-lineal-color-ddara.png" />
+            <img src="https://img.icons8.com/external-victoruler-linear-colour-victoruler/80/000000/external-tooth-whitening-dental-victoruler-linear-colour-victoruler.png" />
             <div class="media-body">
-              <h3 class="mt-0 text-black">DENTAL X-RAY</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+              <h3 class="mt-0 text-black">TEETH WHITENING</h3>
+              <p>Teeth whitening or teeth cleaning are a process of ...</p>
               <button type="button" class="btn btn-secondary btn-sm" data-toggle="modal" data-target=".bd_xray">Learn More</button>
             </div>
           </div>
@@ -126,10 +126,10 @@
       <div class="row">
         <div class="col-md-3 element-animate">
           <div class="media d-block media-feature text-center mb-5">
-            <img src="https://img.icons8.com/office/80/000000/false-teeth.png" />
+            <img src="https://img.icons8.com/external-icongeek26-outline-gradient-icongeek26/80/000000/external-extraction-dental-icongeek26-outline-gradient-icongeek26.png" />
             <div class="media-body">
-              <h3 class="mt-0 text-black">ORAL & MAXILLO-FACIAL SURGERY</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+              <h3 class="mt-0 text-black">THIRD MOLAR EXTRACTION</h3>
+              <p>Wisdom teeth often known as third molars are the ... </p>
               <button type="button" class="btn btn-secondary btn-sm" data-toggle="modal" data-target=".bd_oralmax">Learn More</button>
             </div>
           </div>
@@ -139,8 +139,18 @@
             <img src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/80/000000/external-healthy-teeth-production-isolated-on-a-white-background-dentistry-duo-tal-revivo.png" />
             <div class="media-body">
               <h3 class="mt-0 text-black">PROSTHODONTICS & IMPLANTOLOGY</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+              <p>Dental implants are easily the most popular and also the ideal ...</p>
               <button type="button" class="btn btn-secondary btn-sm" data-toggle="modal" data-target=".bd_prosthodontics">Learn More</button>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-3 element-animate">
+          <div class="media d-block media-feature text-center mb-5">
+            <img src="https://img.icons8.com/officel/80/000000/false-teeth.png" />
+            <div class="media-body">
+              <h3 class="mt-0 text-black">COSMETIC DENTISTRY (SMILE MAKE OVER)</h3>
+              <p>Smile Makeover is a process administered by a dentist ...</p>
+              <button type="button" class="btn btn-secondary btn-sm" data-toggle="modal" data-target=".bd_cosmetic">Learn More</button>
             </div>
           </div>
         </div>
@@ -160,7 +170,7 @@
           </button>
         </div>
         <div class="modal-body">
-          Orthodontics is the branch of dentistry that corrects improperly positioned teeth and jaws. Crooked teeth as well as the teeth that do not fit together correctly are harder to keep clean, are at risk of being lost early due to tooth decay and periodontal disease and Malocclusion (imperfect positioning of the teeth when the jaws are closed) causes extra stress on the chewing muscles that can lead to headaches, Temporomandibular Joint pain along with neck, shoulder & back pain. Orthodontic treatment deals primarily with the diagnosis, prevention and correction of malpositioned teeth and malformed jaws.<br>The subject in totality is called Orthodontics & Dentofacial Orthopedics. Specialist Dental Surgeons dealing with these kind of treatments are known as Orthodontist.
+          ...teeth. They do so by moving your teeth in the desired position. Being made of wires, brackets, and bands, they create the right push. Apart from perfectly aligning the teeth, braces aid to correct the jaw positioning, improves speech & biting disorders, and is a major contributor in aesthetically enhancing your smile.<br> The treatment options and modalities can only be known after a dental visit. In case you have any questions, contact Clove Dental’s dentist near you for enquiry. <br> Orthodontics is the branch of dentistry that corrects improperly positioned teeth and jaws. Crooked teeth as well as the teeth that do not fit together correctly are harder to keep clean, are at risk of being lost early due to tooth decay and periodontal disease and Malocclusion (imperfect positioning of the teeth when the jaws are closed) causes extra stress on the chewing muscles that can lead to headaches, Temporomandibular Joint pain along with neck, shoulder & back pain. Orthodontic treatment deals primarily with the diagnosis, prevention and correction of malpositioned teeth and malformed jaws.<br>The subject in totality is called Orthodontics & Dentofacial Orthopedics. Specialist Dental Surgeons dealing with these kind of treatments are known as Orthodontist.
           <div class="right-bar-categories">
             <div class="blog-item-title">
               <strong>Services Provided : </strong>
@@ -197,7 +207,7 @@
           </button>
         </div>
         <div class="modal-body">
-          Endodontics is the branch of dentistry dealing with the cause, diagnosis, prevention, and treatment of diseases of the dental pulp, usually by removal of the nerve and other tissue of the pulp cavity and its replacement with suitable filling materials, crowns etc. which is commonly known as Root Canal Treatment (RCT).<br>Specialist Dental Surgeons who provide these treatments are known as Endodontists &amp; Conservative Dentists. <br>
+          ...structure namely – Enamel, Dentin & Pulp. If the tooth decay is limited to the first two layers, it can be corrected with Filling/ Restoration. In case the tooth decay reaches the third layer and causes inflammation or infection of pulp, an RCT or Endodontic Treatment is needed. A dentist at the nearest dental clinic should be consulted at the earliest in such cases. <br> Endodontics is the branch of dentistry dealing with the cause, diagnosis, prevention, and treatment of diseases of the dental pulp, usually by removal of the nerve and other tissue of the pulp cavity and its replacement with suitable filling materials, crowns etc. which is commonly known as Root Canal Treatment (RCT).<br>Specialist Dental Surgeons who provide these treatments are known as Endodontists &amp; Conservative Dentists. <br>
           <div class="right-bar-categories">
             <div class="blog-item-title">
               <strong>Indications of RCT : </strong> <br>
@@ -236,7 +246,8 @@
           </button>
         </div>
         <div class="modal-body">
-          Periodontics is the dental specialty focusing exclusively on the inflammatory disease of Gums and related tissues that destroys the gums and other supporting structures around the teeth. A periodontist specializes in the prevention, diagnosis and treatment of periodontal or gum disease. <br> Specialist Dental Surgeons dealing with this kind of treatments are known as Periodontists. Periodontists also perform surgical procedures for patients with severe gum disease. <br> <br>
+          ... can progress to affect the bone that surrounds and supports your teeth. <br>
+          Gum Disease also known as Periodontal Disease begins with bacterial growth in the mouth, the localized inflammation of the gingiva is initiated by bacteria in the dental plaque, which is a microbial biofilm that forms on the teeth and gingiva. Nearly 70% of the people are affected by this disease at some point in their life. Though such a prevalent disease most people are unaware of the issue and the problems it can cause. <br>Periodontics is the dental specialty focusing exclusively on the inflammatory disease of Gums and related tissues that destroys the gums and other supporting structures around the teeth. A periodontist specializes in the prevention, diagnosis and treatment of periodontal or gum disease. <br> Specialist Dental Surgeons dealing with this kind of treatments are known as Periodontists. Periodontists also perform surgical procedures for patients with severe gum disease. <br> <br>
           <strong>Services Provided : </strong> <br>
           &rArr; Non-surgical gum therapies like Ultrasonic Scaling, curettage, local drug delivery, occlusal therapies. <br>
           &rArr; Gum surgeries and all types of esthetic surgeries including gingivectomy, gingivoplasty, treatment of gum enlargement, periodontal flap and plastic surgeries, i.e. recession coverage, lateral pedical graft, free gingival graft etc. <br>
@@ -253,17 +264,16 @@
     <div class="modal-dialog  modal-dialog-centered modal-lg">
       <div class="modal-content">
         <div class="modal-header">
-          <h5 class="modal-title" id="bd_oralpathTitle">ORAL PATHOLOGY</h5>
+          <h5 class="modal-title" id="bd_oralpathTitle">DENTURES</h5>
           <button type="button" class="close" data-dismiss="modal" aria-label="Close">
             <span aria-hidden="true">&times;</span>
           </button>
         </div>
         <div class="modal-body">
-          The Oral Pathology (also known as oral and maxillofacial pathology) is the specialty that is concerned with diagnosis and study of the causes and effects of diseases affecting the oral and maxillofacial region. It generally deals with the diseases of the mouth or oral cavity, jaws and related structures such as salivary glands, temporomandibular joints, facial muscles and perioral skin (the skin around the mouth) etc. <br> <br>
-          <strong>Services Provided :</strong> <br>
-          &rArr; Analysis of biopsy and cytology specimens <br>
-          &rArr; Clinical management of patients with oral disease <br>
-          &rArr; Consultation with clinicians based on clinical, radiographic, and histopathologic data <br>
+          ...are used as a replacement of missing teeth and tissues. They are the artificial teeth which enable normal functioning of human mouth. Dentures are of two types – Complete & Partial.
+          Complete dentures are advised when all the teeth are missing, partial dentures on the other hand are opted when some natural teeth are missing. <br>
+          In case you have missing teeth, Visit Clove Dental clinic near you for consultation.
+
         </div>
       </div>
     </div>
@@ -281,7 +291,8 @@
           </button>
         </div>
         <div class="modal-body">
-          Paediatric Dentistry (ranging from Day 1 to 16 years) is a specialised area that deals with oral & dental care as well as management of infant, children, adolescent and those with special health care need. <br> Specialist Dental Surgeons dealing with the treatments related to children are known as Paedodontists. <br> <br>
+          ... and they get the set of primary ‘milk’ teeth by the age of 4-5 years. Parents ignore taking care of the teeth of their toddlers since they live in a belief that the milk teeth will eventually fall off.
+          However, it is important to consult a paediatric dentist near you as soon as your child’s first tooth appears or when your child turns one to ensure good oral health of your kid. <br> Paediatric Dentistry (ranging from Day 1 to 16 years) is a specialised area that deals with oral & dental care as well as management of infant, children, adolescent and those with special health care need. <br> Specialist Dental Surgeons dealing with the treatments related to children are known as Paedodontists. <br> <br>
           <strong>Services Provided :</strong> <br>
           &rArr; Surgical extraction of complicated tooth / teeth <br>
           &rArr; Surgical / Transalveolar extraction under local or general anaesthesia for Impacted Teeth (Wisdom Teeth, Canines, Premolars, Super Numerary Tooth etc.) <br>
@@ -302,6 +313,26 @@
   </div>
   <!-- Content for PAEDODONTICS learn more ends here-->
 
+  <!-- Content for DENTAL Filling learn more start here-->
+  <div class="modal fade bd_filling" tabindex="-1" role="dialog" aria-labelledby="bd_fillingLabel" aria-hidden="true">
+    <div class="modal-dialog  modal-dialog-centered modal-lg">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="bd_fillingTitle"> DENTAL FILLING</h5>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          ...removing stains from the tooth surface and restoring the natural colour of the teeth. Whitening is a one-time procedure performed by a dentist. It is amongst the most common and widely adopted cosmetic procedure. With the advent of the latest Dental technology, we have advanced whitening treatment procedures which give reliable and long-lasting results. To know more about teeth cleaning cost using advanced procedure, contact your nearest Clove Dental clinic.
+          For better results do get it done from a trained dental professional.
+
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- Content for DENTAL  Filling learn more ends here-->
+
   <!-- Content for COSMETIC DENTISTRY learn more start here-->
   <div class="modal fade bd_cosmetic" tabindex="-1" role="dialog" aria-labelledby="bd_cosmeticLabel" aria-hidden="true">
     <div class="modal-dialog  modal-dialog-centered modal-lg">
@@ -313,6 +344,8 @@
           </button>
         </div>
         <div class="modal-body">
+          ... for improving ones smile through various cosmetic or surgical procedures. <br>
+          Smile makeover takes into consideration the tooth colour, tooth size, tooth shape, tooth position, lip position, lip length, gum position, and gum colour. <br>
           Paediatric Dentistry (ranging from Day 1 to 16 years) is a specialised area that deals with oral & dental care as well as management of infant, children, adolescent and those with special health care need. <br> Specialist Dental Surgeons dealing with the treatments related to children are known as Paedodontists. <br> <br>
           <strong>Services Provided :</strong> <br>
           &rArr; Analysis of biopsy and cytology specimens <br>
@@ -335,7 +368,7 @@
           </button>
         </div>
         <div class="modal-body">
-          Laser Dentistry can be a precise and effective way to perform many dental procedures (preferably Soft Tissues). Procedures performed using soft tissue dental lasers may not require any injections, sutures (stitches) and medicines (almost). Certain Laser Dentistry procedures do not require anesthesia also. Laser dentistry minimizes bleeding because the high-energy light beam aids in the coagulation (clotting) of exposed blood vessels, thus inhibiting blood loss. <br> Dental Surgeons dealing with this kind of treatments are known as Laser Dental Specialists. <br> <br>
+          ... the field of dentistry. This revolutionary technology assures every patient a comfortable dental experience. We are one of the very few centres in the country to use lasers for conducting these safe and sophisticated treatments. <br>Laser Dentistry can be a precise and effective way to perform many dental procedures (preferably Soft Tissues). Procedures performed using soft tissue dental lasers may not require any injections, sutures (stitches) and medicines (almost). Certain Laser Dentistry procedures do not require anesthesia also. Laser dentistry minimizes bleeding because the high-energy light beam aids in the coagulation (clotting) of exposed blood vessels, thus inhibiting blood loss. <br> Dental Surgeons dealing with this kind of treatments are known as Laser Dental Specialists. <br> <br>
           <strong>Services Provided :</strong> <br>
           &rArr; Laser assisted gum therapies <br>
           &rArr; Laser Assisted Root Canal Treatment (RCT) <br>
@@ -360,23 +393,15 @@
     <div class="modal-dialog  modal-dialog-centered modal-lg">
       <div class="modal-content">
         <div class="modal-header">
-          <h5 class="modal-title" id="bd_xrayTitle">DENTAL X-RAY</h5>
+          <h5 class="modal-title" id="bd_xrayTitle">Teeth Whitening</h5>
           <button type="button" class="close" data-dismiss="modal" aria-label="Close">
             <span aria-hidden="true">&times;</span>
           </button>
         </div>
         <div class="modal-body">
-          X-rays, also known as radiographs, are an essential part of any dental care treatment plan. They are diagnostic, but they can also be preventative, by helping a dentist diagnose potential oral care issues in a patient’s mouth before they become a major problem. An x-ray is a type of energy that passes through soft tissues and is absorbed by dense tissue. Teeth and bone are very dense, so they absorb X-rays, while X-rays pass more easily through gums and cheeks. <br> X-rays are divided into two main categories, intraoral and extraoral. Intraoral is an X-ray that is taken inside the mouth. An extraoral X-ray is taken outside of the mouth. <br> <br>
-          <strong>Services Provided :</strong> <br>
-          &rArr; Orthopantomogram (OPG)<br>
-          &rArr; Cone Beam Computed Tomography (CBCT)<br>
-          &rArr; Cephalogram<br>
-          &rArr; Temporo Mandibular Joint’s View<br>
-          &rArr; Intra-Oral Peripheral View<br>
-          &rArr; Occlusal View<br>
-          &rArr; Parallel X-Ray<br>
-          &rArr; Antero-Posterior & Lateral View<br>
-          &rArr; Radiovisuograph (RVG)<br>
+          ...removing stains from the tooth surface and restoring the natural colour of the teeth. Whitening is a one-time procedure performed by a dentist. It is amongst the most common and widely adopted cosmetic procedure. With the advent of the latest Dental technology, we have advanced whitening treatment procedures which give reliable and long-lasting results. To know more about teeth cleaning cost using advanced procedure, contact your nearest Clove Dental clinic.
+          For better results do get it done from a trained dental professional.
+
         </div>
       </div>
     </div>
@@ -388,27 +413,13 @@
     <div class="modal-dialog  modal-dialog-centered modal-lg">
       <div class="modal-content">
         <div class="modal-header">
-          <h5 class="modal-title" id="bd_oralmaxlTitle">ORAL & MAXILLO-FACIAL SURGERY</h5>
+          <h5 class="modal-title" id="bd_oralmaxlTitle">THIRD MOLAR EXTRACTION </h5>
           <button type="button" class="close" data-dismiss="modal" aria-label="Close">
             <span aria-hidden="true">&times;</span>
           </button>
         </div>
         <div class="modal-body">
-          Oral & Maxillofacial Surgery (OMS) specializes in treating many diseases, injuries and defects in the head, neck, face, jaws and the hard and soft tissues of the Oral cavity, treating conditions that require expertise as head and neck cancers, salivary gland diseases, facial disproportion, facial pain, Temporo-Mandibular Joint disorders, impacted teeth, cysts and tumours of the jaws as well as numerous problems of teeth.<br> Specialist Dental Surgeons dealing with this kind of treatments are known as Oral & Maxillofacial Surgeons. <br> <br>
-          <strong>Services Provided :</strong> <br>
-          &rArr; Surgical extraction of complicated tooth / teeth <br>
-          &rArr; Surgical / Transalveolar extraction under local or general anaesthesia for Impacted Teeth (Wisdom Teeth, Canines, Premolars, Super Numerary Tooth etc.)<br>
-          &rArr; Surgical exposure of unerupted tooth<br>
-          &rArr; Surgical measures for all kinds of Intra-oral Soft Tissues or bony tumours and Cysts <br>
-          &rArr; Surgical measures for all kinds of unequal growth of jaw etc. <br>
-          &rArr; To correct deformities of jaws or Temporo Mandibular Joints (TMJ)<br>
-          &rArr; Surgical treatment of Oral Cancer and Reconstruction with Microvascular Surgery<br>
-          &rArr; Facial injury repairs with Plating and wiring of fractured jaws <br>
-          &rArr; TMJ disorders treated with a combination of oral medications, physical therapy and splints<br>
-          &rArr; Incision and Drainage of infected area (Abcess) of Oral Cavity, Face and Neck<br>
-          &rArr; Correction of any irregularities in Intra-Oral part of jaws for better fit of Dentures<br>
-          &rArr; Correction of Cleft Lip and Palate<br>
-          &rArr; Aesthetic correction of face by Jaw surgeries<br>
+          ... last teeth to erupt. As per dentists worldwide, one usually gets them in late teens or early twenties. However, even instances of eruption in late adulthood are common. If they erupt smoothly and without any interruption, then they can be proved as an asset. But the problem with third molars is that in case they do not erupt properly or are misaligned, they would need to be extracted. If they are poorly aligned, then they can damage the adjacent tooth.
         </div>
       </div>
     </div>
@@ -426,7 +437,7 @@
           </button>
         </div>
         <div class="modal-body">
-          Prosthodontics is the dental specialty that treats patients with missing or deficient teeth. Prosthodontic procedures include crowns, bridges, veneers, inlays, onlays, complete and partial dentures. Dental implants have become the preferred method for replacing missing teeth, so many prosthodontic procedures today are done with implants as the support instead of the natural teeth or gums. Specialist Dental Surgeons dealing with this kind of treatments are known as Prosthodontists. <br> &emsp13;A dental implant is an artificial tooth root that is placed into your jaw to hold a replacement tooth or bridge. Dental implants may be an option for people who have lost a tooth or teeth due to periodontal disease, an injury, or some other reason. Dental implants are metal posts or frames that are surgically positioned into the jawbone beneath your gums. Once in place, they allow your dentist to mount replacement teeth onto them. No matter your age, if you have a missing tooth or more, implant can restore your ability to chew and smile with confidence. Specialist Dental Surgeons dealing with this kind of treatments are known as Implantologists. <br> &emsp13;The above specialised sectors of dentistry arerequired for Missing tooth / teeth in one arch or both thearches as well as when all teeth are missing (complete Edentulous). <br> <br>
+          ... solution, for replacing your missing tooth/teeth. They have definitely changed the course of dentistry in the last quarter of a century or so. <br> A dental implant is basically a titanium post which is surgically inserted into the jawbone beneath the gum line to work as a tooth root. Post insertion, an implantologist will attach a crown on top of the implant to ensure the appearance of a natural tooth. <br> Tooth Implants not only look and feel like your natural teeth but also function like them. <br> Prosthodontics is the dental specialty that treats patients with missing or deficient teeth. Prosthodontic procedures include crowns, bridges, veneers, inlays, onlays, complete and partial dentures. Dental implants have become the preferred method for replacing missing teeth, so many prosthodontic procedures today are done with implants as the support instead of the natural teeth or gums. Specialist Dental Surgeons dealing with this kind of treatments are known as Prosthodontists. <br> &emsp13;A dental implant is an artificial tooth root that is placed into your jaw to hold a replacement tooth or bridge. Dental implants may be an option for people who have lost a tooth or teeth due to periodontal disease, an injury, or some other reason. Dental implants are metal posts or frames that are surgically positioned into the jawbone beneath your gums. Once in place, they allow your dentist to mount replacement teeth onto them. No matter your age, if you have a missing tooth or more, implant can restore your ability to chew and smile with confidence. Specialist Dental Surgeons dealing with this kind of treatments are known as Implantologists. <br> &emsp13;The above specialised sectors of dentistry arerequired for Missing tooth / teeth in one arch or both thearches as well as when all teeth are missing (complete Edentulous). <br> <br>
           <strong>Services Provided :</strong> <br>
           &rArr; Removable Partial or Full Dentures.<br>
           &rArr; Fixed Artificial Tooth / Teeth (Crown & Bridge Prosthesis).<br>

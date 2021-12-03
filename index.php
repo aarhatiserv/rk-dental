@@ -8,7 +8,7 @@
         <div class="mt-5">
           <span class="subheading">Welcome to R K Dental Care</span>
           <h1 class="mb-4">We are here <br>for your Dental Care</h1>
-          <p class="mb-4">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sequi facilis at cum, temporibus enim deserunt quos distinctio, quis eligendi ipsum inventore voluptatibus adipisci laudantium esse!</p>
+          <p class="mb-4">To Be Widely Recognized As One of The Leading And Most Preferred Dental Care Service Provider In KHARAGPUR, Especially Midnapore District Through Unmatched Treatment Outcomes, Cutting Edge Technology & Procedure Delivery Systems, And International Standards Of Care.</p>
         </div>
       </div>
     </div>
@@ -112,7 +112,7 @@
         <div class="carousel-testimony owl-carousel ftco-owl">
           <div class="item">
             <div class="testimony-wrap text-center py-3">
-              <div class="user-img" style="background-image: url(images/user.png)">
+              <div class="user-img" style="background-image: url(images/user_1.png)">
                 <span class="quote d-flex align-items-center justify-content-center">
                   <i class="fa fa-quote-left" aria-hidden="true"></i>
                 </span>
@@ -126,7 +126,7 @@
           </div>
           <div class="item">
             <div class="testimony-wrap text-center py-4 ">
-              <div class="user-img" style="background-image: url(images/user.png)">
+              <div class="user-img" style="background-image: url(images/user_1.png)">
                 <span class="quote d-flex align-items-center justify-content-center">
                 <i class="fa fa-quote-left" aria-hidden="true"></i>
                 </span>
@@ -140,7 +140,7 @@
           </div>
           <div class="item">
             <div class="testimony-wrap text-center py-4 ">
-              <div class="user-img" style="background-image: url(images/user.png)">
+              <div class="user-img" style="background-image: url(images/user_1.png)">
                 <span class="quote d-flex align-items-center justify-content-center">
                 <i class="fa fa-quote-left" aria-hidden="true"></i>
                 </span>
@@ -154,7 +154,7 @@
           </div>
           <div class="item">
             <div class="testimony-wrap text-center py-4">
-              <div class="user-img" style="background-image: url(images/user.png)">
+              <div class="user-img" style="background-image: url(images/user_1.png)">
                 <span class="quote d-flex align-items-center justify-content-center">
                 <i class="fa fa-quote-left" aria-hidden="true"></i>
                 </span>
@@ -168,7 +168,7 @@
           </div>
           <div class="item">
             <div class="testimony-wrap text-center py-4">
-              <div class="user-img" style="background-image: url(images/user.png)">
+              <div class="user-img" style="background-image: url(images/user_1.png)">
                 <span class="quote d-flex align-items-center justify-content-center">
                 <i class="fa fa-quote-left" aria-hidden="true"></i>
                 </span>

@@ -60,7 +60,7 @@
 				<img src="images/R K Dental Care_logo 02.png" alt="r k logo" height="76" style="float: left; width:fit-content;">
 			</a>
 			<button class="navbar-toggler js-fh5co-nav-toggle fh5co-nav-toggle" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
-				<span class="oi oi-menu"></span> <strong>MENU</strong>
+			<i class="fa fa-caret-square-o-down" aria-hidden="true"></i> <strong>MENU</strong>
 			</button>
 			<div class="collapse navbar-collapse" id="ftco-nav">
 				<ul class="navbar-nav nav ml-auto">
