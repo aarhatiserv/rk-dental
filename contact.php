@@ -46,23 +46,23 @@
             <div class="row">
               <div class="col-md-6 form-group">
                 <label for="fname">First Name</label>
-                <input type="text" class="form-control form-control-lg" id="fname">
+                <input type="text" class="form-control form-control-lg" name="fname" id="fname" required>
               </div>
               <div class="col-md-6 form-group">
                 <label for="lname">Last Name</label>
-                <input type="text" class="form-control form-control-lg" id="lname">
+                <input type="text" class="form-control form-control-lg" name="lname" id="lname" required>
               </div>
             </div>
             <div class="row">
               <div class="col-md-12 form-group">
                 <label for="email">Email</label>
-                <input type="email" id="email" class="form-control form-control-lg">
+                <input type="email" id="email" name="email" class="form-control form-control-lg" required>
               </div>
             </div>
             <div class="row">
               <div class="col-md-12 form-group">
                 <label for="message">Write Message</label>
-                <textarea name="message" id="message" class="form-control form-control-lg" cols="30" rows="8"></textarea>
+                <textarea name="message" id="message" name="message" class="form-control form-control-lg" required cols="30" rows="8"></textarea>
               </div>
             </div>
             <div class="row">
@@ -99,7 +99,55 @@
   <script src="js1/bootstrap-datepicker.js"></script>
   <script src="js1/jquery.timepicker.min.js"></script>
   <script src="js1/jquery.waypoints.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+  <script src="jquery-3.3.1.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/2.1.2/sweetalert.min.js"></script>
   <script src="js1/main.js"></script>
+  <!-- function for form -->
+  <?php
+
+  ?>
+  <!-- connecting database -->
+  <?php
+  if ($_SERVER['REQUEST_METHOD'] == 'POST') {
+
+    $fname = $_POST['fname'];
+    $lname = $_POST['lname'];
+    $email = $_POST['email'];
+    $message = $_POST['message'];
+
+    $servername = "localhost";
+    $username = "root";
+    $password = "";
+    $databse = "rk_dental";
+
+
+    // create connection
+    $conn = mysqli_connect($servername, $username, $password, $databse);
+    // if (!$conn) {
+    //   die("Sorry we failed to connect" . mysqli_connect_error());
+    // } else {
+    //   echo "Connection was successful ";
+    // }
+
+    // inserting in database 
+    $sql = "INSERT INTO `contact_us` (`f_name`, `l_name`, `email`, `msg`) VALUES ( '$fname', '$lname' , '$email', '$message')";
+    $result = mysqli_query($conn, $sql);
+    if ($result) {
+      // echo '<div class="alert alert-success alert-dismissible fade show" role="alert">
+      //         <strong>Success!</strong> Your entry has beem submitted successfull!y.
+      //     </div>';
+      echo '<script type="text/javascript">';
+      echo 'setTimeout(function () { swal("WOW!","Your Submitted","success");';
+      echo '}, 1000);</script>';
+    } else {
+      // echo "The record was not Inserted  Successfully because of this error -----> ". mysqli_error($conn). "<br>";
+      echo '<div class="alert alert-danger alert-dismissible fade show" role="alert">
+              <strong>Ooops!</strong> We are facing some technical issue and Your entry was not submitted successfull!y!. We regrat the innconvinience caused.
+          </div>';
+    }
+  }
+  ?>
 </body>
 
 </html>

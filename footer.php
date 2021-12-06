@@ -31,8 +31,8 @@
         <div class="ftco-footer-widget mb-4 ">
           <ul class="list-unstyled">
             <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Emergency Services</a></li>
-            <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Qualified Doctors</a></li>
-            <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Outdoors Checkup</a></li>
+            <li><a href="about.php"><span class="icon-long-arrow-right mr-2"></span>Qualified Doctors</a></li>
+            <li><a href="contact.php"><span class="icon-long-arrow-right mr-2"></span>Outdoors Checkup</a></li>
           </ul>
         </div>
       </div>
